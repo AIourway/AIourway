@@ -49,7 +49,7 @@ Junior and middle science and VCE Chemistry; student outcomes featured in the He
 - McGregor, A., & Xu, M. (2026). *Juxtaposing the application of AI and Gaming Technology in schools.* Zenodo. https://doi.org/10.5281/zenodo.23407798
 - McGregor, A. (2026). *The roles of Mathematics and Science within interdisciplinary STEM classroom settings.* Zenodo. https://doi.org/10.5281/zenodo.23408427
 - McGregor, A. (2026). *AIEdTechism. Revolutionising and Characterising a New Learning Theory in the Age of AI-Ed.* (presentation). The Twentieth International Conference on Technology, Knowledge, and Society. Zenodo. https://doi.org/10.5281/zenodo.23408156
-- McGregor, A. (2026). *MIT ranks Australia world number 1 for Cyber Security whilst Victorian Academic calls for heightened safeguarding digital privacy and a pause on further Digital Twin Victoria [complete title].* Zenodo. https://doi.org/10.5281/zenodo.23408010
+- McGregor, A. (2026). *MIT ranks Australia world number 1 for Cyber Security whilst Victorian Academic calls for heightened safeguarding digital privacy and a pause on further Digital Twin Victoria.* Zenodo. https://doi.org/10.5281/zenodo.23408010
 
 Earlier work:
 
