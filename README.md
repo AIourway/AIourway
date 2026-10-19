@@ -1,4 +1,4 @@
-# Alison McGregor, PhD
+# Alison McGregor
 
 **AI in Education | Program Design | Partnerships | Research**
 
