@@ -2,7 +2,6 @@
 
 **AI in Education | Program Design | Partnerships | Research**
 
-California
 
 [LinkedIn](https://linkedin.com/in/alisonjennifermcgregor) · [Google Scholar](https://scholar.google.com/citations?user=gEj7nUsAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-4060-6715) · [Victoria University profile](https://www.vu.edu.au/contact-us/alison-mcgregor)
 
