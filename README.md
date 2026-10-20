@@ -46,15 +46,14 @@ Junior and middle science and VCE Chemistry; student outcomes featured in the He
 
 ## Publications and Presentations
 
-- McGregor, A., & Xu, M. (2026). *Juxtaposing the application of AI and Gaming Technology in schools.* Zenodo. https://doi.org/10.5281/zenodo.23407798
-- McGregor, A. (2026). *The roles of Mathematics and Science within interdisciplinary STEM classroom settings.* Zenodo. https://doi.org/10.5281/zenodo.23408427
-- McGregor, A. (2026). *AIEdTechism. Revolutionising and Characterising a New Learning Theory in the Age of AI-Ed.* (presentation). The Twentieth International Conference on Technology, Knowledge, and Society. Zenodo. https://doi.org/10.5281/zenodo.23408156
-- McGregor, A. (2026). *MIT ranks Australia world number 1 for Cyber Security whilst Victorian Academic calls for heightened safeguarding digital privacy and a pause on further Digital Twin Victoria.* Zenodo. https://doi.org/10.5281/zenodo.23408010
+MCGREGOR, A., & Xu, M. (2026). Juxtaposing the application of AI and Gaming Technology in schools. Zenodo. Research and Development in Higher Education: 2023 (HERDSA, 2023), Brisbane Convention & Exhibition Centre in Brisbane, Queensland, Australia. https://doi.org/10.5281/zenodo.23461979
+MCGREGOR, A. (2026). The roles of Mathematics and Science within interdisciplinary STEM classroom settings. Zenodo. https://doi.org/10.5281/zenodo.23408427
+MCGREGOR, A. (2026, October 16). AIEdTechism. Revolutionising and Characterising a New Learning Theory in the Age of AI-Ed. Zenodo. The Twentieth International Conference on Technology, Knowledge, and Society., Universitat Politècnica de València, Valencia, Spain (+ Online). https://doi.org/10.5281/zenodo.23408156
+MCGREGOR, A. (2026). MIT ranks Australia world number 1 for Cyber Security whilst Victorian Academic calls for heightened safeguarding, digital privacy and a pause on further Digital Twin Victoria (DTV) development. Zenodo. https://doi.org/10.5281/zenodo.23458967
 
 Earlier work:
 
 - AI Prompt Engineering: A Novel Approach
-- Juxtaposing the Application of AI Education in China and Australia
 - Problem-Based Learning (PBL) Enhances Student Engagement in Mathematics
 - Innovative Methods to Teach Science and Mathematics
 
