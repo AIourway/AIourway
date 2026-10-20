@@ -48,11 +48,11 @@ Junior and middle science and VCE Chemistry; student outcomes featured in the He
 
 MCGREGOR, A., & Xu, M. (2026). Juxtaposing the application of AI and Gaming Technology in schools. Zenodo. Research and Development in Higher Education: 2023 (HERDSA, 2023), Brisbane Convention & Exhibition Centre in Brisbane, Queensland, Australia. https://doi.org/10.5281/zenodo.23461979
 
-MCGREGOR, A. (2026). The roles of Mathematics and Science within interdisciplinary STEM classroom settings. Zenodo. https://doi.org/10.5281/zenodo.23408427
+MCGREGOR, A. (2026). The roles of Mathematics and Science within interdisciplinary STEM classroom settings. https://doi.org/10.5281/zenodo.23408427
 
 MCGREGOR, A. (2026, October 16). AIEdTechism. Revolutionising and Characterising a New Learning Theory in the Age of AI-Ed. Zenodo. The Twentieth International Conference on Technology, Knowledge, and Society., Universitat Politècnica de València, Valencia, Spain (+ Online). https://doi.org/10.5281/zenodo.23408156
 
-MCGREGOR, A. (2026). MIT ranks Australia world number 1 for Cyber Security whilst Victorian Academic calls for heightened safeguarding, digital privacy and a pause on further Digital Twin Victoria (DTV) development. Zenodo. https://doi.org/10.5281/zenodo.23458967
+MCGREGOR, A. (2026). MIT ranks Australia world number 1 for Cyber Security whilst Victorian Academic calls for heightened safeguarding, digital privacy and a pause on further Digital Twin Victoria (DTV) development. https://doi.org/10.5281/zenodo.23458967
 
 Earlier work:
 
