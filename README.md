@@ -9,7 +9,7 @@
 
 ## Summary
 
-Doctoral-trained AI-in-education researcher and program builder. I have designed a school-university-industry AI partnership program, a pedagogical model for teaching AI and machine learning, and an implementation framework schools can adopt. I combine rigorous qualitative research, hands-on technical teaching (Python, TensorFlow, robotics) and a chemistry and biology background with university teaching, curriculum design and stakeholder leadership.
+Alison McGregor is an international academic researcher and practitioner whose work integrates theoretical inquiry with applied educational praxis.
 
 ## Selected Achievements
 
@@ -61,7 +61,3 @@ Earlier work:
 - Innovative Methods to Teach Science and Mathematics
 
 Full list on [Google Scholar](https://scholar.google.com/citations?user=gEj7nUsAAAAJ&hl=en).
-
-## Skills
-
-Python (Streamlit), JavaScript/HTML/React, TensorFlow, Machine Learning for Kids, API integration, GitHub. Qualitative and mixed-methods research, program evaluation, curriculum and assessment design, stakeholder partnerships.
