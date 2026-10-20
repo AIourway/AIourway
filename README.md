@@ -3,7 +3,7 @@
 **AI in Education | Program Design | Partnerships | Research**
 
 
-[ResearchGate](https://www.researchgate.net/profile/Alison-Mcgregor-7) · [Google Scholar](https://scholar.google.com/citations?user=gEj7nUsAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-4060-6715) · [Victoria University profile](https://www.vu.edu.au/contact-us/alison-mcgregor)
+[ResearchGate](https://www.researchgate.net/profile/Alison-Mcgregor-7) · [Google Scholar](https://scholar.google.com/citations?user=gEj7nUsAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-4060-6715) · [Victoria University](https://www.vu.edu.au/contact-us/alison-mcgregor)
 
 ---
 
